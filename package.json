@@ -1,0 +1,19 @@
+{
+  "name": "hw-lesson-2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "start": "tsx index.ts",
+    "dev": "tsx --watch index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.13",
+    "typescript": "^6.0.3"
+  }
+}

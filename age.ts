@@ -1,0 +1,1 @@
+export const age: string = "30";

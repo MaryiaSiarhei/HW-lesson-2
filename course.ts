@@ -1,0 +1,1 @@
+export const course: string = "автоматизированному тестированию на JavaScrip";
